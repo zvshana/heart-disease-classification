@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Generated pipeline artifacts
+*.npy
+X_*_scaled.csv
+
+# Office temp files
+~$*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
