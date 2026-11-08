@@ -52,7 +52,7 @@ Every transformation is learned from the training data and then applied to the t
 ## Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/heart-disease-classification.git
+git clone https://github.com/zvshana/heart-disease-classification.git
 cd heart-disease-classification
 pip install -r requirements.txt
 ```
